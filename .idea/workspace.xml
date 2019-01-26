@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75339a7a-39b8-4df8-aee5-73158ac6d423" name="Default Changelist" comment="" />
+    <list default="true" id="75339a7a-39b8-4df8-aee5-73158ac6d423" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,24 +15,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/pages/Homepage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/SleepAndImplicitWaitExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#361#362#0" expanded="true" />
-                <element signature="e#427#428#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/Driver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+            <state relative-caret-position="646">
+              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -39,31 +27,46 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/configuration.properties">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/ExplicitWaitExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="204">
+              <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/ScrollTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/DropDown.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="29" column="53" lean-forward="true" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/pages/PrestashopHomePage.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/ExplicitWaitTow.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/ConfigurationReader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
+            <state relative-caret-position="238">
+              <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -137,12 +140,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/YoutubeTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/GoTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/ChildTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/practice/YoutubeTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/CheckBoxes.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/AmazonSearch.java" />
@@ -191,6 +194,9 @@
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/LoginTestWithProperty.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/cybertek/pages/Homepage.java" />
         <option value="$PROJECT_DIR$/configuration.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/SleepAndImplicitWaitExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/ExplicitWaitExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/cybertek/tests/ExplicitWaitTow.java" />
       </list>
     </option>
   </component>
@@ -202,11 +208,12 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="81" />
-    <option name="y" value="560" />
+    <option name="x" value="7" />
+    <option name="y" value="14" />
     <option name="width" value="1046" />
-    <option name="height" value="735" />
+    <option name="height" value="712" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -233,14 +240,38 @@
             <path>
               <item name="mavenprojectz" type="b2602c69:ProjectViewProjectNode" />
               <item name="mavenprojectz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavenprojectz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenprojectz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cybertek" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavenprojectz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenprojectz" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cybertek" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mavenprojectz" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mavenprojectz" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,7 +279,7 @@
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="SearchEverywhereHistoryKey" value="persistence&#9;PSI&#9;JAVA://java.beans.PersistenceDelegate" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547679364560" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548464457687" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -266,8 +297,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.LoginTestWithProperty">
-    <configuration name="ErrorMessageValidationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.ExplicitWaitTow.test">
+    <configuration name="ExplicitWaitExample" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="mavenprojectz" />
       <extension name="coverage">
         <pattern>
@@ -276,14 +307,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.cybertek.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.ErrorMessageValidationTest" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.ExplicitWaitExample" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ErrorMessageValidationTest.blankUsername" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ExplicitWaitExample.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="mavenprojectz" />
       <extension name="coverage">
         <pattern>
@@ -292,8 +323,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.cybertek.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.ErrorMessageValidationTest" />
-      <option name="METHOD_NAME" value="blankUsername" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.ExplicitWaitExample" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -301,7 +332,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ErrorMessageValidationTest.wrongEmailTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ExplicitWaitTow" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="mavenprojectz" />
       <extension name="coverage">
         <pattern>
@@ -310,8 +341,24 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.cybertek.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.ErrorMessageValidationTest" />
-      <option name="METHOD_NAME" value="wrongEmailTest" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.ExplicitWaitTow" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExplicitWaitTow.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mavenprojectz" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cybertek.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.cybertek.tests" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.ExplicitWaitTow" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -319,7 +366,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ErrorMessageValidationTest.wrongPasswordTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SleepAndImplicitWaitExample.implicitWait2" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="mavenprojectz" />
       <extension name="coverage">
         <pattern>
@@ -328,25 +375,9 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.cybertek.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.ErrorMessageValidationTest" />
-      <option name="METHOD_NAME" value="wrongPasswordTest" />
+      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.SleepAndImplicitWaitExample" />
+      <option name="METHOD_NAME" value="implicitWait2" />
       <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoginTestWithProperty" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="mavenprojectz" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.cybertek.tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.cybertek.tests" />
-      <option name="MAIN_CLASS_NAME" value="com.cybertek.tests.LoginTestWithProperty" />
       <properties />
       <listeners />
       <method v="2">
@@ -354,19 +385,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.ErrorMessageValidationTest" />
-      <item itemvalue="TestNG.ErrorMessageValidationTest.blankUsername" />
-      <item itemvalue="TestNG.ErrorMessageValidationTest.wrongEmailTest" />
-      <item itemvalue="TestNG.ErrorMessageValidationTest.wrongPasswordTest" />
-      <item itemvalue="TestNG.LoginTestWithProperty" />
+      <item itemvalue="TestNG.SleepAndImplicitWaitExample.implicitWait2" />
+      <item itemvalue="TestNG.ExplicitWaitExample.test" />
+      <item itemvalue="TestNG.ExplicitWaitExample" />
+      <item itemvalue="TestNG.ExplicitWaitTow" />
+      <item itemvalue="TestNG.ExplicitWaitTow.test" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.LoginTestWithProperty" />
-        <item itemvalue="TestNG.ErrorMessageValidationTest" />
-        <item itemvalue="TestNG.ErrorMessageValidationTest.wrongPasswordTest" />
-        <item itemvalue="TestNG.ErrorMessageValidationTest.wrongEmailTest" />
-        <item itemvalue="TestNG.ErrorMessageValidationTest.blankUsername" />
+        <item itemvalue="TestNG.ExplicitWaitTow.test" />
+        <item itemvalue="TestNG.ExplicitWaitTow" />
+        <item itemvalue="TestNG.ExplicitWaitExample" />
+        <item itemvalue="TestNG.ExplicitWaitExample.test" />
+        <item itemvalue="TestNG.SleepAndImplicitWaitExample.implicitWait2" />
       </list>
     </recent_temporary>
   </component>
@@ -384,41 +415,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ErrorMessageValidationTest - 2019.01.15 at 17h 38m 15s.xml">
-      <configuration name="ErrorMessageValidationTest" configurationId="TestNG" />
+    <history-entry file="ExplicitWaitTow - 2019.01.25 at 19h 39m 56s.xml">
+      <configuration name="ExplicitWaitTow" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ErrorMessageValidationTest - 2019.01.15 at 17h 45m 48s.xml">
-      <configuration name="ErrorMessageValidationTest" configurationId="TestNG" />
+    <history-entry file="ExplicitWaitTow - 2019.01.25 at 19h 41m 10s.xml">
+      <configuration name="ExplicitWaitTow" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ErrorMessageValidationTest - 2019.01.15 at 17h 50m 10s.xml">
-      <configuration name="ErrorMessageValidationTest" configurationId="TestNG" />
+    <history-entry file="ExplicitWaitTow - 2019.01.25 at 19h 44m 27s.xml">
+      <configuration name="ExplicitWaitTow" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ErrorMessageValidationTest - 2019.01.15 at 17h 51m 10s.xml">
-      <configuration name="ErrorMessageValidationTest" configurationId="TestNG" />
+    <history-entry file="ExplicitWaitTow - 2019.01.25 at 19h 45m 13s.xml">
+      <configuration name="ExplicitWaitTow" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTestWithProperty - 2019.01.15 at 20h 28m 33s.xml">
-      <configuration name="LoginTestWithProperty" configurationId="TestNG" />
+    <history-entry file="ExplicitWaitTow - 2019.01.25 at 19h 46m 47s.xml">
+      <configuration name="ExplicitWaitTow" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTestWithProperty - 2019.01.15 at 20h 33m 44s.xml">
-      <configuration name="LoginTestWithProperty" configurationId="TestNG" />
+    <history-entry file="ExplicitWaitTow - 2019.01.25 at 19h 47m 40s.xml">
+      <configuration name="ExplicitWaitTow" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTestWithProperty - 2019.01.15 at 20h 34m 01s.xml">
-      <configuration name="LoginTestWithProperty" configurationId="TestNG" />
+    <history-entry file="ExplicitWaitTow - 2019.01.25 at 19h 50m 55s.xml">
+      <configuration name="ExplicitWaitTow" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="ErrorMessageValidationTest - 2019.01.15 at 20h 55m 08s.xml">
-      <configuration name="ErrorMessageValidationTest" configurationId="TestNG" />
+    <history-entry file="ExplicitWaitTow_test - 2019.01.25 at 19h 53m 05s.xml">
+      <configuration name="ExplicitWaitTow.test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTestWithProperty - 2019.01.15 at 21h 34m 57s.xml">
-      <configuration name="LoginTestWithProperty" configurationId="TestNG" />
+    <history-entry file="ExplicitWaitTow_test - 2019.01.25 at 19h 53m 29s.xml">
+      <configuration name="ExplicitWaitTow.test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="LoginTestWithProperty - 2019.01.15 at 21h 40m 54s.xml">
-      <configuration name="LoginTestWithProperty" configurationId="TestNG" />
+    <history-entry file="ExplicitWaitTow_test - 2019.01.25 at 19h 55m 40s.xml">
+      <configuration name="ExplicitWaitTow.test" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="50" y="11" width="1046" height="735" extended-state="0" />
+    <frame x="7" y="14" width="1046" height="712" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4987775" visible="true" weight="0.26977688" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4987775" visible="true" weight="0.27484787" />
       <window_info id="Structure" order="1" sideWeight="0.5012225" side_tool="true" weight="0.33975658" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -427,14 +459,14 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6764706" weight="0.33554816" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6764706" visible="true" weight="0.33506045" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39966273" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32890365" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32890365" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.32352942" side_tool="true" weight="0.33554816" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4969574" weight="0.3255814" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -448,40 +480,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/ReallyCheckBox.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/test-classes/practice/ChildTest.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/test-classes/com/cybertek/DropDown.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="30" column="53" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/EtsyExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="15" column="71" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/DropDown.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="24" column="48" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -733,16 +735,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/ScrollTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/DragAndDrop.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -832,10 +824,37 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/configuration.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/utilities/ConfigurationReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/pages/PrestashopHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/ScrollTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -889,17 +908,40 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/configuration.properties">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/DropDown.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="357">
+          <caret line="29" column="53" lean-forward="true" selection-start-line="29" selection-start-column="53" selection-end-line="29" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/pages/PrestashopHomePage.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/SleepAndImplicitWaitExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        <state relative-caret-position="646">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/ExplicitWaitExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/cybertek/tests/ExplicitWaitTow.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
